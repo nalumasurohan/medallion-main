@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# Logs
+logs/*.log
+
+# Data
+bronze_inputs/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
